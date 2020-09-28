@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate web developer from Brazil, currently based in the UK.</h3>
+<h1 align="center">Hi, I'm Jonathan</h1>
+<h3 align="center">A passionate web developer based in the UK.</h3>
 
 - 🔭 I’m currently working on [TechMastery.io](https://github.com/jonathanmach/techmastery.io)
 
