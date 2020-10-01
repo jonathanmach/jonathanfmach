@@ -9,7 +9,7 @@
 
 
 
-#### Skills
+### Skills
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
@@ -22,10 +22,14 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  
 </p>
 
+### Others
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmach&layout=compact&hide=html" alt="jonathanmach" /></p>
+
+#### My [Codewars](https://www.codewars.com/) Profile Badge
+
+![My Codewarrior Profile Badge](https://www.codewars.com/users/jonathanmach/badges/large)
 
 <p align="center">
 <a href="https://twitter.com/jonathanfmach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jonathanfmach" height="30" width="30" /></a>
