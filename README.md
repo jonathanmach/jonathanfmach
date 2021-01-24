@@ -14,7 +14,7 @@ Vue.js, JavaScript, Python, Django, Flask, Tailwind CSS, PostgreSQL, Figma
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmach&layout=compact&hide=html" alt="jonathanmach" /></p>
 
-#### My [Codewars](https://www.codewars.com/) Profile Badge
+#### [My Codewars](https://www.codewars.com/users/jonathanmach) Profile Badge
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/jonathanmach/badges/large)
 
