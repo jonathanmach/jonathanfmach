@@ -1,12 +1,5 @@
-### Hi, I'm Jonathan
-A passionate Full Stack Developer based in the UK.
-
-- 🔭  I’m currently working on [TechMastery.io](https://github.com/jonathanmach/techmastery.io)
-
-- 👨‍💻  My recent projects are available at [https://jonathanmachado.me/about/](https://jonathanmachado.me/about/)
-
-- 📝  I regulary write articles on [https://jonathanmachado.me/](https://jonathanmachado.me/)
-
+### Hey, I'm Jonathan 👋
+I'm a software engineer, based in the UK, focused on web development, best practices, TDD, software architecture and clean code.
 
 
 ### Skills & Tools
